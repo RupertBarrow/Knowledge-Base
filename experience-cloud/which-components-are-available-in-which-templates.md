@@ -16,5 +16,16 @@ Our company vision is to **be the authoritative reference point for environmenta
 
 ## LWR BYO build-your-own (7 components)
 
-****![](../.gitbook/assets/image.png)****
+![](<../.gitbook/assets/image (2).png>)
 
+## Customer Account (51 components)
+
+****![](<../.gitbook/assets/image (4).png>)****
+
+## **Help Center (32 components)**
+
+![](<../.gitbook/assets/image (3).png>)
+
+## Customer Service (62 components)
+
+![](../.gitbook/assets/image.png)
